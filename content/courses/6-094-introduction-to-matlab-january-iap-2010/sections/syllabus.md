@@ -24,9 +24,9 @@ This course provides an aggressively gentle introduction to MATLAB®. It is desi
 MATLAB® Tutorials
 -----------------
 
-[MATLAB tutorial](http://www.math.utah.edu/lab/ms/matlab/matlab.html)
+{{% resource_link "9823c027-86a8-4ab1-8286-5113dd51ca11" "MATLAB tutorial" %}}
 
-[Another MATLAB tutorial](http://www.cyclismo.org/tutorial/matlab/)
+{{% resource_link "6a3b4487-5ce9-4915-bac0-9f050eca2f74" "Another MATLAB tutorial" %}}
 
 Calendar
 --------
